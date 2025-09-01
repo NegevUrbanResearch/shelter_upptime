@@ -1,0 +1,27 @@
+{
+  "name": "shelter-upptime",
+  "version": "1.0.0",
+  "description": "Uptime monitoring for Negev Shelter Access Analysis",
+  "scripts": {
+    "uptime": "upptime",
+    "summary": "upptime summary",
+    "static-site": "upptime static-site"
+  },
+  "dependencies": {
+    "@upptime/core": "^1.40.1"
+  },
+  "devDependencies": {
+    "@upptime/uptime": "^1.40.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NegevUrbanResearch/upptime.git"
+  },
+  "keywords": [
+    "uptime",
+    "monitoring",
+    "status-page"
+  ],
+  "author": "NegevUrbanResearch",
+  "license": "MIT"
+}

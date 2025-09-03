@@ -3,7 +3,7 @@
 # Clean HTTP-only monitoring (no body content validation)
 
 owner: NegevUrbanResearch
-repo: upptime
+repo: shelter_upptime
 
 # Sites to monitor - simplified HTTP status checks only
 sites:
@@ -56,7 +56,7 @@ sites:
       - NegevUrbanResearch
 
 status-website:
-  baseUrl: /upptime
+  baseUrl: /shelter_upptime
   logoUrl: https://negevurbanresearch.github.io/shelter_access/data/favicon.ico
   name: Shelter Access Status
   introTitle: "Negev Shelter Access Monitoring"
